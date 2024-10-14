@@ -45,7 +45,7 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![vite.js](https://img.shields.io/badge/-vite-000000?style=for-the-badge&logo=vite&logoColor=white)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-764ABC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
