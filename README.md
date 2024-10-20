@@ -61,12 +61,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush0966&layout=compact&theme=radical" alt="Top Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush0966&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush0966&layout=compact&theme=gotham" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush0966&show_icons=true&theme=gotham" alt="GitHub Stats" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush0966&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush0966&theme=gotham" alt="GitHub Streak">
 </div>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -74,13 +74,13 @@
 
 <div align="center">
   <a href="https://github.com/Aayush0966/React-Weather-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Weather-Dashboard&theme=radical" alt="Weather Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Weather-Dashboard&theme=gotham" alt="Weather Dashboard">
   </a>
   <a href="https://github.com/Aayush0966/todo-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=todo-react&theme=radical" alt="Todo App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=todo-react&theme=gotham" alt="Todo App">
   </a>
   <a href="https://github.com/Aayush0966/React-Product-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Product-Page&theme=radical" alt="React-Product-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Product-Page&theme=gotham" alt="React-Product-Page">
   </a>
 </div>
 
@@ -96,9 +96,7 @@
   <a href="https://github.com/aayush0966">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
 </div>
 
 <div align="center">
@@ -108,4 +106,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
