@@ -8,33 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=DF2935&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush0966&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aayush0966?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
-<h2 align="center">🚀 About Me</h2>
-
-<img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
-
-- 🔭 I'm currently working on [Movie Site](https://moviesworld69.netlify.app/)
-- 🌱 I'm learning **Advanced MERN Stack** & **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: [aayushx699@gmail.com](mailto:aayushx699@gmail.com)
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
   ### Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
