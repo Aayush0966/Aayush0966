@@ -37,11 +37,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush0966&layout=compact&theme=gotham" alt="Top Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush0966&show_icons=true&theme=gotham" alt="GitHub Stats" height="165">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aayush0966?cardType=level-alternate&theme=gotham&preferLogin=false" alt="GitHub Stats" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush0966&theme=gotham" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayush0966&theme=gotham&border_radius=4.6" alt="GitHub Streak">
 </div>
 
 <h2 align="center">🚀 Featured Projects</h2>
