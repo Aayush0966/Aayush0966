@@ -40,19 +40,15 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aayush0966?cardType=level-alternate&theme=gotham&preferLogin=false" alt="GitHub Stats" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayush0966&theme=gotham&border_radius=4.6" alt="GitHub Streak">
-</div>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 
 <div align="center">
-  <a href="https://github.com/Aayush0966/React-Weather-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Weather-Dashboard&theme=gotham" alt="Weather Dashboard">
+  <a href="https://github.com/Aayush0966/Brain-Battle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=Brain-Battle&theme=gotham" alt="Quiz app">
   </a>
-  <a href="https://github.com/Aayush0966/todo-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=todo-react&theme=gotham" alt="Todo App">
+  <a href="https://github.com/Aayush0966/choice-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=choice-hub&theme=gotham" alt="Poll App">
   </a>
   <a href="https://github.com/Aayush0966/React-Product-Page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush0966&repo=React-Product-Page&theme=gotham" alt="React-Product-Page">
